@@ -15,10 +15,10 @@
 <h1>How to reach me 📫</h1>
 <h2>Shall you want connect with me, you will find me on:</h2>
 <p>
-<a href="https://www.linkedin.com/in/your_username"><i class="material-icons">linkedin</i></a>
-<a href="https://www.kaggle.com/your_username"><i class="material-icons">kaggle</i></a>
-<a href="https://twitter.com/your_username"><i class="material-icons">twitter</i></a>
-<a href="https://www.facebook.com/your_username"><i class="material-icons">facebook</i></a>
+<a href="https://www.linkedin.com/in/musabdalash"><i class="material-icons">linkedin</i></a>
+<a href="https://www.kaggle.com/musabdalash"><i class="material-icons">kaggle</i></a>
+<a href="https://twitter.com/musabdalash"><i class="material-icons">twitter</i></a>
+<a href="https://www.facebook.com/musabdalash"><i class="material-icons">facebook</i></a>
 </p>
 
 
